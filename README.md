@@ -5,7 +5,7 @@
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![NetBeans IDE](https://img.shields.io/badge/NetBeansIDE-1B6AC6.svg?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white) -->
 
-![Demonstração da Aplicação](./assets/demo.png)
+![Demonstração da Aplicação](./demo.png)
 
 O objetivo do projeto foi desenvolver exemplos simples de utilização do designer pattern adapter para apresentação em sala durante a faculdade.
 
